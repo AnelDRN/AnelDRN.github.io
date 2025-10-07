@@ -11,13 +11,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mi Blog de Sistemas Operativos
-author: Tu Nombre
+title: Sistemas Operativos
+author: Grupo 8
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog para el proyecto de la asignatura de Sistemas Operativos,
   explorando diferentes SO para PC y móviles.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "SistemasOperativos/Grupo8/Android" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
