@@ -12,10 +12,9 @@ Este blog fue desarrollado como parte del proyecto final para la asignatura de S
 
 | Foto | Nombre |
 | :---: | :--- |
-| <img src="./assets/images/valeria.jpg" alt="Valeria Agrazal" width="150"> | Valeria Agrazal |
-| <img src="./assets/images/javier.jpg" alt="Javier Cuello" width="150"> | Javier Cuello |
-| <img src="./assets/images/dilam.jpg" alt="Dilam Jimenez" width="150"> | Dilam Jimenez |
-| <img src="./assets/images/anel.jpg" alt="Anel Ruiz" width="150"> | Anel Ruiz |
+| <img src="{{ site.baseurl }}/assets/images/javier.jpg" alt="Javier Cuello" width="150"> | Javier Cuello |
+| <img src="{{ site.baseurl }}/assets/images/dilam.jpg" alt="Dilam Jimenez" width="150"> | Dilam Jimenez |
+| <img src="{{ site.baseurl }}/assets/images/anel.jpg" alt="Anel Ruiz" width="150"> | Anel Ruiz |
 
 ### Profesor
 
