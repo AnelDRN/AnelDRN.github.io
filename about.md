@@ -26,5 +26,5 @@ Este blog fue desarrollado como parte del proyecto final para la asignatura de S
 *   **Universidad:** Universidad Tecnológica de Panamá
 *   **Facultad:** Facultad de Ingeniería de Sistemas Computacionales
 *   **Departamento:** Departamento de Arquitectura y Redes de Computadoras
-*   **Carrera:** [Nombre de la Carrera]
-*   **Grupo:** [Número del Grupo]
+*   **Carrera:** Licenciatura en Ingenieria de Software
+*   **Grupo:** Grupo 8
